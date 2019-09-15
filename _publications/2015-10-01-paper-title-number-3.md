@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Gauge fixing the Standard Model Effective Field Theory"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/Gauge fixing the Standard Model Effective Field Theory
+excerpt: 'Authors: Andreas Helset (Bohr Inst.), Michael Paraskevas (Ioannina U.), Michael Trott (Bohr Inst.)'
+venue: 'Phys.Rev.Lett. 120 (2018) no.25, 251801'
+paperurl: 'http://inspirehep.net/record/1663474'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[arXiv:1803.08001](https://arxiv.org/pdf/1803.08001.pdf)
