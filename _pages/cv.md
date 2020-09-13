@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Ss. in Physics and Mathematics at Norwegian University of Science and Technology, 2017
+* M.Sc. in Physics and Mathematics at Norwegian University of Science and Technology, 2017
 * Ph.D in Theoretical Particle Physics at Niels Bohr Institute, University of Copenhagen, 2020
 
 Work experience
